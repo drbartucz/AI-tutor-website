@@ -1,2 +1,2 @@
 # AI-tutor-website
-Front end for the AI tutor
+The front end for the AI tutor is under construction.
